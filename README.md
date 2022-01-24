@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**yurtseven/yurtseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ###  I'm Emre :raising_hand: :sunglasses:
 
 ##   Jr. Game Developer
