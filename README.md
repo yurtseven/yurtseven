@@ -2,7 +2,7 @@
 
 ###  I'm Emre 🙋‍♂️ 😎
 
-###  Jr. Game Developer
+###  Indie Software Developer
 <hr>
 
 - 🔭 I’m currently working on Android 
