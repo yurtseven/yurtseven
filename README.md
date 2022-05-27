@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Hi 👋
 
 ###  I'm Emre 🙋‍♂️ 😎
 
@@ -6,7 +6,7 @@
 <hr>
 
 - 🔭 I’m currently working on Android 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: yurtseven996@gmail.com
 - ⚡ Fun fact: In the long run we are alive
 
