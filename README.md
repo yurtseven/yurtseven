@@ -1,7 +1,8 @@
 ###  Hi there I'm Emre Yurtseven 🙋‍♂️ 😎
 
 <hr>
-- 📱  I'm an Android Developer
+
+- 💻 I’m an Android Developer
 - 🔭 I’m currently working on Android 
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: yurtseven996@gmail.com
