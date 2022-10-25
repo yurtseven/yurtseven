@@ -10,8 +10,4 @@
 
 <hr>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=yurtseven&show_icons=true&theme=radical)
-
-<hr>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurtseven&layout=compact)](https://github.com/yurtseven/github-readme-stats)
